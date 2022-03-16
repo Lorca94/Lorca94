@@ -8,7 +8,7 @@
     </a>
 </p>
 
-<h3 align="left">Y puedo ayudarte con: 👇h3>
+<h3 align="left">Y puedo ayudarte con: 👇</h3>
 <p align="left"> 
     <h3 align="left">Lenguajes</h3>
     <a href="https://www.w3schools.com/java" target="_blank" rel="noreferrer">
