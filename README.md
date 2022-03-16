@@ -1,15 +1,15 @@
-<h1 align="center">Hola! 👋, Soy Raúl Lorca</h1>
-<h3 align="center">Desarrollador Fulltstack</h3>
+<h1 align="left">Hola! 👋, Soy Raúl Lorca</h1>
+<h3 align="left">Desarrollador Fulltstack</h3>
 
-<h3 align="center">Me puedes encontrar en:</h3>
-<p align="center">
+<h3 align="left">Me puedes encontrar en:</h3>
+<p align="left">
     <a href="https://twitter.com/lorcanavarrov" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lorcanavarrov" height="30" width="40" />
     </a>
 </p>
 
-<h3 align="center">Lenguajes, frameworks, bbbdd...:</h3>
-<p align="center"> 
+<h3 align="left">Lenguajes, frameworks, bbbdd...:</h3>
+<p align="left"> 
     <h3 align="left">Lenguajes</h3>
     <a href="https://www.w3schools.com/java" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
